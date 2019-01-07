@@ -27,6 +27,10 @@
 #define ADR_WECKENDE	4
 
 
+
+
+
+
 class CUhr
 {
 private: //Variablen
